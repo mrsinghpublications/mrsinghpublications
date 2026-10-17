@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Dayashankar Singh 👋
 
-<!--
-**dssmauryaofficial-svg/dssmauryaofficial-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Software Engineer & AI Developer**  
+🎓 BCA Graduate — Bharath University, Chennai  
+🌐 Portfolio: [mrsinghofficial.isroot.in](https://mrsinghofficial.isroot.in)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Core Technologies
+- **Languages:** Python, TypeScript, JavaScript, SQL, HTML5/CSS3
+- **Frameworks:** FastAPI, Node.js, React.js, Next.js
+- **AI & Data:** LangChain, LLM APIs (Claude / OpenAI), ChromaDB, PostgreSQL
+- **DevOps & Cloud:** Docker, Linux, Git, GitHub Actions, Nginx, DNS Management
+-
